@@ -14,7 +14,7 @@ library(forcats)
 # Power Analysis
 Reading in the data
 ```{r}
-Powers<-read.csv("Data_Tomato_Outputs/Powers_Out_Rep2B.csv")
+Powers<-read.csv("Data_Tomato_Outputs/Powers_Out_Rep.csv")
 ```
 
 ```{r}
@@ -39,20 +39,24 @@ Powers_Summary %>%
 ggplot(aes(x = Type, y = mean, color = Mass,shape = variable ,group = interaction(Mass, variable)))+
   #geom_point(stroke = 4,position = position_dodge(0.3))+
   #geom_line(aes(linetype= variable),size = 0.3,position = position_dodge(0.3))+
-  geom_pointrange(aes(ymin=CI_05, ymax=CI_95),position = position_dodge(0.5), size = 0.5)+
-  geom_errorbar(aes(ymin=CI_05, ymax=CI_95),width = 0.5, size =0.5,position = position_dodge(0.5))+
+  geom_pointrange(aes(ymin=CI_05, ymax=CI_95),position = position_dodge(0.7), size = 0.5)+
+  geom_errorbar(aes(ymin=CI_05, ymax=CI_95),width = 0.5, size =0.5,position = position_dodge(0.7))+
   ylab("Sampling Plan Power")+
   xlab("Sampling at Process Step")+
   #scale_size_manual(name = "Tomatoes Sampled")+
-  scale_color_discrete(name="Sampling Plan")+
+  scale_color_discrete(name="Sampling-Testing Plan")+
   scale_shape_discrete(name="Pick Number",labels = c("Power_Pick_1" ="Pick 1", "Power_Pick_2" ="Pick 2", "Power_Pick_3" ="Pick 3") )+
   scale_linetype_discrete(name="Pick Number",labels = c("Power_Pick_1" ="Pick 1", "Power_Pick_2" ="Pick 2", "Power_Pick_3" ="Pick 3"))+
   facet_wrap(~Cont,nrow = 2)+
   theme_bw()
+ggsave(filename="Plot Outputs/Powers_Per_Pick.jpeg",width = 25, height = 15, units = "cm", dpi = 600)
+
+
+write.csv(x = Powers_Summary, file = "Powers Summary Picks.csv")
 
 
 Spread_names <-c(
-"100%"= "Widespread Unclustered", 
+"100%"= "Random Uniform (Widespread 100% Cluster)", 
 "10%" = "10% Cluster", 
 "1%"="1% Cluster", 
 "0.1%" = "0.1% Cluster"
@@ -108,7 +112,7 @@ Cont_Prog$`Cont.Type`<-factor(Cont_Prog$`Cont.Type`,levels=c("100%", "10%", "1%"
 
 
 Spread_names <-c(
-"100%"= "Widespread Unclustered", 
+"100%"= "Random Uniform (Widespread 100% Cluster)", 
 "10%" = "10% Cluster", 
 "1%"="1% Cluster", 
 "0.1%" = "0.1% Cluster"
@@ -152,7 +156,7 @@ Cont_Prog$`Cont.Type`<-factor(Cont_Prog$`Cont.Type`,levels=c("100%", "10%", "1%"
 
 
 Spread_names <-c(
-"100%"= "Widespread Unclustered", 
+"100%"= "Random Uniform (Widespread 100% Cluster)", 
 "10%" = "10% Cluster", 
 "1%"="1% Cluster", 
 "0.1%" = "0.1% Cluster"
@@ -187,18 +191,24 @@ Exps_all$Cont<-factor(Exps_all$Cont,levels=c("100%", "10%", "1%", "0.1%"))
 
 Exps_all$Type<-factor(Exps_all$Type,levels=c("Baseline","Preharvest", "Harvest", "Receiving", "Packed Product"))
 
+Spread_names <-c(
+"100%"= "Random Uniform (Widespread 100% Cluster)", 
+"10%" = "10% Cluster", 
+"1%"="1% Cluster", 
+"0.1%" = "0.1% Cluster"
+)
 
 
 Exps_all %>% 
   ggplot(aes(x = Type, y = Total_CFU, fill = Mass))+
   geom_col(position = position_dodge())+
-  facet_wrap(~Cont)+
+  facet_wrap(~Cont,labeller=as_labeller(Spread_names))+
   scale_y_continuous(labels = scales::comma)+
   ylab("Total CFU that reached the consumer")+
   xlab("Sampling Location")+
   theme_bw()
 
-ggsave(filename="Plot Outputs/Exps1011.tiff",width = 25, height = 15, units = "cm", dpi = 600)
+ggsave(filename="Plot Outputs/Exps1011.jpeg",width = 25, height = 15, units = "cm", dpi = 600)
 
 ```
 
@@ -221,7 +231,7 @@ Exps_RE$RE<-1-Exps_RE$RE
 
 
 Spread_names <-c(
-"100%"= "Widespread Unclustered", 
+"100%"= "Random Uniform (Widespread 100% Cluster)", 
 "10%" = "10% Cluster", 
 "1%"="1% Cluster", 
 "0.1%" = "0.1% Cluster"
@@ -240,7 +250,7 @@ Exps_RE %>%
   theme_bw()+
   scale_shape_manual(values = c(4,8,15,16,17,18,21),name="Sampling Plan") 
 
-ggsave(filename="Plot Outputs/Relative Efficacy.tiff",width = 25, height = 15, units = "cm", dpi = 600)
+#ggsave(filename="Plot Outputs/Relative Efficacy.tiff",width = 25, height = 15, units = "cm", dpi = 600)
 ggsave(filename="Plot Outputs/Relative Efficacy.jpeg",width = 25, height = 15, units = "cm", dpi = 600)
 
 write.csv(Exps_RE, file = "Exps_RE.csv")
@@ -672,7 +682,7 @@ TR_All_100$Sampling<-factor(TR_All_100$Sampling, levels=c("2 Tomatoes", "6 Tomat
 TR_All_100$ContSpread<-"10% Cluster"
 
 TR_All_100%>% 
-filter(Sampling == "2 Tomatoes" | Sampling == "20 Tomatoes") %>% 
+#filter(Sampling == "2 Tomatoes" | Sampling == "20 Tomatoes") %>% 
 ggplot()+
 geom_col(aes(x = X6, y = total,fill = class),position = position_identity(), alpha = 0.9)+
 geom_point(aes(x = X6, y =Prot_Rate*10000000), alpha = 0.5, size = 1)+
@@ -686,6 +696,7 @@ scale_y_continuous(labels = scales::comma,sec.axis = sec_axis(~./10000000, name 
 ggsave(filename="Plot Outputs/PP_100_HS_Trimmed.jpeg",width = 20, height = 15, units = "cm", dpi = 600)
 
 ```
+
 ```{r}
 PP_010<-read.csv("Data_Tomato_Outputs/pp_hs_1_010.csv")
 PP2_010<-read.csv("Data_Tomato_Outputs/pp_hs_2_010.csv")

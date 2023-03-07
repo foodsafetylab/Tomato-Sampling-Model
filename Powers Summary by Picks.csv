@@ -1,0 +1,289 @@
+"","Type","Mass","variable","Cont","mean","CI_95","CI_05"
+"1","Preharvest","2 Tomatoes","Power_Pick_1","100%",0.05,0.072,0.029
+"2","Preharvest","2 Tomatoes","Power_Pick_1","10%",0.025,0.042,0.01
+"3","Preharvest","2 Tomatoes","Power_Pick_1","1%",0.01,0.021,0
+"4","Preharvest","2 Tomatoes","Power_Pick_1","0.1%",0,0,0
+"5","Preharvest","2 Tomatoes","Power_Pick_2","100%",0.06,0.081,0.04
+"6","Preharvest","2 Tomatoes","Power_Pick_2","10%",0.035,0.06,0.02
+"7","Preharvest","2 Tomatoes","Power_Pick_2","1%",0.01,0.011,0
+"8","Preharvest","2 Tomatoes","Power_Pick_2","0.1%",0,0,0
+"9","Preharvest","2 Tomatoes","Power_Pick_3","100%",0.05,0.09,0.039
+"10","Preharvest","2 Tomatoes","Power_Pick_3","10%",0.03,0.05,0.019
+"11","Preharvest","2 Tomatoes","Power_Pick_3","1%",0.01,0.03,0
+"12","Preharvest","2 Tomatoes","Power_Pick_3","0.1%",0,0.00100000000000001,0
+"13","Preharvest","6 Tomatoes","Power_Pick_1","100%",0.125,0.151,0.088
+"14","Preharvest","6 Tomatoes","Power_Pick_1","10%",0.07,0.11,0.04
+"15","Preharvest","6 Tomatoes","Power_Pick_1","1%",0.015,0.04,0
+"16","Preharvest","6 Tomatoes","Power_Pick_1","0.1%",0,0.00100000000000001,0
+"17","Preharvest","6 Tomatoes","Power_Pick_2","100%",0.125,0.182,0.09
+"18","Preharvest","6 Tomatoes","Power_Pick_2","10%",0.08,0.13,0.05
+"19","Preharvest","6 Tomatoes","Power_Pick_2","1%",0.02,0.031,0.01
+"20","Preharvest","6 Tomatoes","Power_Pick_2","0.1%",0,0.01,0
+"21","Preharvest","6 Tomatoes","Power_Pick_3","100%",0.12,0.161,0.099
+"22","Preharvest","6 Tomatoes","Power_Pick_3","10%",0.07,0.102,0.05
+"23","Preharvest","6 Tomatoes","Power_Pick_3","1%",0.02,0.041,0.01
+"24","Preharvest","6 Tomatoes","Power_Pick_3","0.1%",0,0.01,0
+"25","Preharvest","20 Tomatoes","Power_Pick_1","100%",0.225,0.26,0.149
+"26","Preharvest","20 Tomatoes","Power_Pick_1","10%",0.16,0.212,0.12
+"27","Preharvest","20 Tomatoes","Power_Pick_1","1%",0.045,0.071,0.019
+"28","Preharvest","20 Tomatoes","Power_Pick_1","0.1%",0,0.01,0
+"29","Preharvest","20 Tomatoes","Power_Pick_2","100%",0.22,0.263,0.19
+"30","Preharvest","20 Tomatoes","Power_Pick_2","10%",0.185,0.222,0.147
+"31","Preharvest","20 Tomatoes","Power_Pick_2","1%",0.07,0.091,0.039
+"32","Preharvest","20 Tomatoes","Power_Pick_2","0.1%",0.01,0.02,0
+"33","Preharvest","20 Tomatoes","Power_Pick_3","100%",0.22,0.261,0.188
+"34","Preharvest","20 Tomatoes","Power_Pick_3","10%",0.185,0.231,0.149
+"35","Preharvest","20 Tomatoes","Power_Pick_3","1%",0.06,0.102,0.04
+"36","Preharvest","20 Tomatoes","Power_Pick_3","0.1%",0.01,0.021,0
+"37","Preharvest","60 Tomatoes","Power_Pick_1","100%",0.265,0.32,0.178
+"38","Preharvest","60 Tomatoes","Power_Pick_1","10%",0.23,0.265,0.158
+"39","Preharvest","60 Tomatoes","Power_Pick_1","1%",0.11,0.151,0.079
+"40","Preharvest","60 Tomatoes","Power_Pick_1","0.1%",0.01,0.031,0
+"41","Preharvest","60 Tomatoes","Power_Pick_2","100%",0.31,0.35,0.23
+"42","Preharvest","60 Tomatoes","Power_Pick_2","10%",0.27,0.31,0.22
+"43","Preharvest","60 Tomatoes","Power_Pick_2","1%",0.15,0.212,0.12
+"44","Preharvest","60 Tomatoes","Power_Pick_2","0.1%",0.035,0.051,0.01
+"45","Preharvest","60 Tomatoes","Power_Pick_3","100%",0.285,0.353,0.249
+"46","Preharvest","60 Tomatoes","Power_Pick_3","10%",0.25,0.301,0.22
+"47","Preharvest","60 Tomatoes","Power_Pick_3","1%",0.15,0.181,0.089
+"48","Preharvest","60 Tomatoes","Power_Pick_3","0.1%",0.035,0.05,0.02
+"49","Preharvest","20 Tomato Mash","Power_Pick_1","100%",0.08,0.121,0.048
+"50","Preharvest","20 Tomato Mash","Power_Pick_1","10%",0.07,0.102,0.029
+"51","Preharvest","20 Tomato Mash","Power_Pick_1","1%",0.03,0.05,0.019
+"52","Preharvest","20 Tomato Mash","Power_Pick_1","0.1%",0,0.02,0
+"53","Preharvest","20 Tomato Mash","Power_Pick_2","100%",0.075,0.121,0.05
+"54","Preharvest","20 Tomato Mash","Power_Pick_2","10%",0.07,0.1,0.039
+"55","Preharvest","20 Tomato Mash","Power_Pick_2","1%",0.045,0.07,0.03
+"56","Preharvest","20 Tomato Mash","Power_Pick_2","0.1%",0,0.02,0
+"57","Preharvest","20 Tomato Mash","Power_Pick_3","100%",0.08,0.122,0.059
+"58","Preharvest","20 Tomato Mash","Power_Pick_3","10%",0.07,0.09,0.03
+"59","Preharvest","20 Tomato Mash","Power_Pick_3","1%",0.04,0.061,0.019
+"60","Preharvest","20 Tomato Mash","Power_Pick_3","0.1%",0,0.03,0
+"61","Preharvest","60 Tomato Mash","Power_Pick_1","100%",0.16,0.2,0.098
+"62","Preharvest","60 Tomato Mash","Power_Pick_1","10%",0.14,0.181,0.096
+"63","Preharvest","60 Tomato Mash","Power_Pick_1","1%",0.09,0.132,0.06
+"64","Preharvest","60 Tomato Mash","Power_Pick_1","0.1%",0.02,0.031,0
+"65","Preharvest","60 Tomato Mash","Power_Pick_2","100%",0.17,0.21,0.12
+"66","Preharvest","60 Tomato Mash","Power_Pick_2","10%",0.145,0.19,0.109
+"67","Preharvest","60 Tomato Mash","Power_Pick_2","1%",0.11,0.12,0.088
+"68","Preharvest","60 Tomato Mash","Power_Pick_2","0.1%",0.02,0.06,0
+"69","Preharvest","60 Tomato Mash","Power_Pick_3","100%",0.16,0.201,0.129
+"70","Preharvest","60 Tomato Mash","Power_Pick_3","10%",0.13,0.16,0.09
+"71","Preharvest","60 Tomato Mash","Power_Pick_3","1%",0.095,0.133,0.078
+"72","Preharvest","60 Tomato Mash","Power_Pick_3","0.1%",0.025,0.05,0
+"73","Harvest","2 Tomatoes","Power_Pick_1","100%",0.06,0.092,0.039
+"74","Harvest","2 Tomatoes","Power_Pick_1","10%",0.025,0.05,0
+"75","Harvest","2 Tomatoes","Power_Pick_1","1%",0.005,0.021,0
+"76","Harvest","2 Tomatoes","Power_Pick_1","0.1%",0,0,0
+"77","Harvest","2 Tomatoes","Power_Pick_2","100%",0.06,0.091,0.029
+"78","Harvest","2 Tomatoes","Power_Pick_2","10%",0.035,0.06,0.01
+"79","Harvest","2 Tomatoes","Power_Pick_2","1%",0.005,0.01,0
+"80","Harvest","2 Tomatoes","Power_Pick_2","0.1%",0,0,0
+"81","Harvest","2 Tomatoes","Power_Pick_3","100%",0.06,0.1,0.04
+"82","Harvest","2 Tomatoes","Power_Pick_3","10%",0.035,0.05,0.019
+"83","Harvest","2 Tomatoes","Power_Pick_3","1%",0.01,0.03,0
+"84","Harvest","2 Tomatoes","Power_Pick_3","0.1%",0,0,0
+"85","Harvest","6 Tomatoes","Power_Pick_1","100%",0.14,0.181,0.117
+"86","Harvest","6 Tomatoes","Power_Pick_1","10%",0.07,0.11,0.05
+"87","Harvest","6 Tomatoes","Power_Pick_1","1%",0.02,0.05,0
+"88","Harvest","6 Tomatoes","Power_Pick_1","0.1%",0,0.01,0
+"89","Harvest","6 Tomatoes","Power_Pick_2","100%",0.135,0.182,0.09
+"90","Harvest","6 Tomatoes","Power_Pick_2","10%",0.09,0.14,0.05
+"91","Harvest","6 Tomatoes","Power_Pick_2","1%",0.02,0.04,0.01
+"92","Harvest","6 Tomatoes","Power_Pick_2","0.1%",0,0.01,0
+"93","Harvest","6 Tomatoes","Power_Pick_3","100%",0.13,0.17,0.089
+"94","Harvest","6 Tomatoes","Power_Pick_3","10%",0.07,0.111,0.058
+"95","Harvest","6 Tomatoes","Power_Pick_3","1%",0.02,0.05,0.01
+"96","Harvest","6 Tomatoes","Power_Pick_3","0.1%",0,0.01,0
+"97","Harvest","20 Tomatoes","Power_Pick_1","100%",0.24,0.29,0.189
+"98","Harvest","20 Tomatoes","Power_Pick_1","10%",0.17,0.224,0.139
+"99","Harvest","20 Tomatoes","Power_Pick_1","1%",0.045,0.071,0.019
+"100","Harvest","20 Tomatoes","Power_Pick_1","0.1%",0.01,0.01,0
+"101","Harvest","20 Tomatoes","Power_Pick_2","100%",0.22,0.301,0.179
+"102","Harvest","20 Tomatoes","Power_Pick_2","10%",0.195,0.251,0.15
+"103","Harvest","20 Tomatoes","Power_Pick_2","1%",0.075,0.09,0.04
+"104","Harvest","20 Tomatoes","Power_Pick_2","0.1%",0.01,0.011,0
+"105","Harvest","20 Tomatoes","Power_Pick_3","100%",0.225,0.27,0.179
+"106","Harvest","20 Tomatoes","Power_Pick_3","10%",0.18,0.222,0.129
+"107","Harvest","20 Tomatoes","Power_Pick_3","1%",0.065,0.101,0.039
+"108","Harvest","20 Tomatoes","Power_Pick_3","0.1%",0.01,0.021,0
+"109","Harvest","60 Tomatoes","Power_Pick_1","100%",0.3,0.361,0.23
+"110","Harvest","60 Tomatoes","Power_Pick_1","10%",0.265,0.323,0.19
+"111","Harvest","60 Tomatoes","Power_Pick_1","1%",0.125,0.191,0.09
+"112","Harvest","60 Tomatoes","Power_Pick_1","0.1%",0.02,0.04,0
+"113","Harvest","60 Tomatoes","Power_Pick_2","100%",0.31,0.362,0.25
+"114","Harvest","60 Tomatoes","Power_Pick_2","10%",0.265,0.32,0.219
+"115","Harvest","60 Tomatoes","Power_Pick_2","1%",0.175,0.221,0.128
+"116","Harvest","60 Tomatoes","Power_Pick_2","0.1%",0.04,0.06,0.01
+"117","Harvest","60 Tomatoes","Power_Pick_3","100%",0.285,0.321,0.253
+"118","Harvest","60 Tomatoes","Power_Pick_3","10%",0.255,0.282,0.207
+"119","Harvest","60 Tomatoes","Power_Pick_3","1%",0.15,0.191,0.079
+"120","Harvest","60 Tomatoes","Power_Pick_3","0.1%",0.03,0.051,0.02
+"121","Harvest","20 Tomato Mash","Power_Pick_1","100%",0.085,0.12,0.05
+"122","Harvest","20 Tomato Mash","Power_Pick_1","10%",0.065,0.113,0.039
+"123","Harvest","20 Tomato Mash","Power_Pick_1","1%",0.03,0.06,0.02
+"124","Harvest","20 Tomato Mash","Power_Pick_1","0.1%",0.005,0.021,0
+"125","Harvest","20 Tomato Mash","Power_Pick_2","100%",0.085,0.121,0.05
+"126","Harvest","20 Tomato Mash","Power_Pick_2","10%",0.07,0.111,0.049
+"127","Harvest","20 Tomato Mash","Power_Pick_2","1%",0.04,0.061,0.02
+"128","Harvest","20 Tomato Mash","Power_Pick_2","0.1%",0,0.02,0
+"129","Harvest","20 Tomato Mash","Power_Pick_3","100%",0.08,0.12,0.059
+"130","Harvest","20 Tomato Mash","Power_Pick_3","10%",0.07,0.111,0.04
+"131","Harvest","20 Tomato Mash","Power_Pick_3","1%",0.04,0.06,0.029
+"132","Harvest","20 Tomato Mash","Power_Pick_3","0.1%",0,0.021,0
+"133","Harvest","60 Tomato Mash","Power_Pick_1","100%",0.17,0.221,0.119
+"134","Harvest","60 Tomato Mash","Power_Pick_1","10%",0.135,0.21,0.104
+"135","Harvest","60 Tomato Mash","Power_Pick_1","1%",0.105,0.15,0.05
+"136","Harvest","60 Tomato Mash","Power_Pick_1","0.1%",0.02,0.05,0.01
+"137","Harvest","60 Tomato Mash","Power_Pick_2","100%",0.16,0.21,0.14
+"138","Harvest","60 Tomato Mash","Power_Pick_2","10%",0.14,0.19,0.11
+"139","Harvest","60 Tomato Mash","Power_Pick_2","1%",0.11,0.13,0.069
+"140","Harvest","60 Tomato Mash","Power_Pick_2","0.1%",0.02,0.05,0.01
+"141","Harvest","60 Tomato Mash","Power_Pick_3","100%",0.155,0.201,0.119
+"142","Harvest","60 Tomato Mash","Power_Pick_3","10%",0.13,0.171,0.099
+"143","Harvest","60 Tomato Mash","Power_Pick_3","1%",0.1,0.15,0.069
+"144","Harvest","60 Tomato Mash","Power_Pick_3","0.1%",0.02,0.042,0.009
+"145","Receiving","2 Tomatoes","Power_Pick_1","100%",0.055,0.081,0.02
+"146","Receiving","2 Tomatoes","Power_Pick_1","10%",0.03,0.051,0.01
+"147","Receiving","2 Tomatoes","Power_Pick_1","1%",0.005,0.021,0
+"148","Receiving","2 Tomatoes","Power_Pick_1","0.1%",0,0,0
+"149","Receiving","2 Tomatoes","Power_Pick_2","100%",0.06,0.081,0.039
+"150","Receiving","2 Tomatoes","Power_Pick_2","10%",0.04,0.051,0.019
+"151","Receiving","2 Tomatoes","Power_Pick_2","1%",0.01,0.02,0
+"152","Receiving","2 Tomatoes","Power_Pick_2","0.1%",0,0,0
+"153","Receiving","2 Tomatoes","Power_Pick_3","100%",0.05,0.08,0.029
+"154","Receiving","2 Tomatoes","Power_Pick_3","10%",0.03,0.051,0.029
+"155","Receiving","2 Tomatoes","Power_Pick_3","1%",0.005,0.03,0
+"156","Receiving","2 Tomatoes","Power_Pick_3","0.1%",0,0,0
+"157","Receiving","6 Tomatoes","Power_Pick_1","100%",0.14,0.181,0.09
+"158","Receiving","6 Tomatoes","Power_Pick_1","10%",0.07,0.101,0.05
+"159","Receiving","6 Tomatoes","Power_Pick_1","1%",0.02,0.05,0
+"160","Receiving","6 Tomatoes","Power_Pick_1","0.1%",0,0.01,0
+"161","Receiving","6 Tomatoes","Power_Pick_2","100%",0.14,0.171,0.089
+"162","Receiving","6 Tomatoes","Power_Pick_2","10%",0.09,0.13,0.05
+"163","Receiving","6 Tomatoes","Power_Pick_2","1%",0.02,0.04,0.01
+"164","Receiving","6 Tomatoes","Power_Pick_2","0.1%",0,0.01,0
+"165","Receiving","6 Tomatoes","Power_Pick_3","100%",0.13,0.171,0.108
+"166","Receiving","6 Tomatoes","Power_Pick_3","10%",0.07,0.1,0.049
+"167","Receiving","6 Tomatoes","Power_Pick_3","1%",0.02,0.041,0.01
+"168","Receiving","6 Tomatoes","Power_Pick_3","0.1%",0,0.01,0
+"169","Receiving","20 Tomatoes","Power_Pick_1","100%",0.225,0.273,0.178
+"170","Receiving","20 Tomatoes","Power_Pick_1","10%",0.18,0.22,0.119
+"171","Receiving","20 Tomatoes","Power_Pick_1","1%",0.055,0.1,0.019
+"172","Receiving","20 Tomatoes","Power_Pick_1","0.1%",0.01,0.01,0
+"173","Receiving","20 Tomatoes","Power_Pick_2","100%",0.235,0.311,0.189
+"174","Receiving","20 Tomatoes","Power_Pick_2","10%",0.175,0.242,0.14
+"175","Receiving","20 Tomatoes","Power_Pick_2","1%",0.07,0.1,0.049
+"176","Receiving","20 Tomatoes","Power_Pick_2","0.1%",0.01,0.02,0
+"177","Receiving","20 Tomatoes","Power_Pick_3","100%",0.23,0.261,0.176
+"178","Receiving","20 Tomatoes","Power_Pick_3","10%",0.18,0.22,0.13
+"179","Receiving","20 Tomatoes","Power_Pick_3","1%",0.06,0.091,0.03
+"180","Receiving","20 Tomatoes","Power_Pick_3","0.1%",0.01,0.03,0
+"181","Receiving","60 Tomatoes","Power_Pick_1","100%",0.295,0.352,0.23
+"182","Receiving","60 Tomatoes","Power_Pick_1","10%",0.265,0.311,0.2
+"183","Receiving","60 Tomatoes","Power_Pick_1","1%",0.13,0.19,0.099
+"184","Receiving","60 Tomatoes","Power_Pick_1","0.1%",0.02,0.04,0
+"185","Receiving","60 Tomatoes","Power_Pick_2","100%",0.3,0.371,0.259
+"186","Receiving","60 Tomatoes","Power_Pick_2","10%",0.27,0.304,0.238
+"187","Receiving","60 Tomatoes","Power_Pick_2","1%",0.165,0.211,0.139
+"188","Receiving","60 Tomatoes","Power_Pick_2","0.1%",0.03,0.051,0.01
+"189","Receiving","60 Tomatoes","Power_Pick_3","100%",0.295,0.322,0.244
+"190","Receiving","60 Tomatoes","Power_Pick_3","10%",0.265,0.271,0.208
+"191","Receiving","60 Tomatoes","Power_Pick_3","1%",0.15,0.19,0.08
+"192","Receiving","60 Tomatoes","Power_Pick_3","0.1%",0.03,0.051,0.01
+"193","Receiving","20 Tomato Mash","Power_Pick_1","100%",0.085,0.13,0.05
+"194","Receiving","20 Tomato Mash","Power_Pick_1","10%",0.055,0.092,0.03
+"195","Receiving","20 Tomato Mash","Power_Pick_1","1%",0.03,0.051,0.02
+"196","Receiving","20 Tomato Mash","Power_Pick_1","0.1%",0.005,0.021,0
+"197","Receiving","20 Tomato Mash","Power_Pick_2","100%",0.07,0.14,0.039
+"198","Receiving","20 Tomato Mash","Power_Pick_2","10%",0.09,0.11,0.039
+"199","Receiving","20 Tomato Mash","Power_Pick_2","1%",0.04,0.06,0.02
+"200","Receiving","20 Tomato Mash","Power_Pick_2","0.1%",0,0.021,0
+"201","Receiving","20 Tomato Mash","Power_Pick_3","100%",0.07,0.111,0.04
+"202","Receiving","20 Tomato Mash","Power_Pick_3","10%",0.06,0.111,0.04
+"203","Receiving","20 Tomato Mash","Power_Pick_3","1%",0.03,0.05,0.019
+"204","Receiving","20 Tomato Mash","Power_Pick_3","0.1%",0,0.021,0
+"205","Receiving","60 Tomato Mash","Power_Pick_1","100%",0.155,0.202,0.117
+"206","Receiving","60 Tomato Mash","Power_Pick_1","10%",0.125,0.182,0.107
+"207","Receiving","60 Tomato Mash","Power_Pick_1","1%",0.095,0.141,0.059
+"208","Receiving","60 Tomato Mash","Power_Pick_1","0.1%",0.02,0.05,0.01
+"209","Receiving","60 Tomato Mash","Power_Pick_2","100%",0.17,0.201,0.129
+"210","Receiving","60 Tomato Mash","Power_Pick_2","10%",0.135,0.182,0.119
+"211","Receiving","60 Tomato Mash","Power_Pick_2","1%",0.11,0.131,0.078
+"212","Receiving","60 Tomato Mash","Power_Pick_2","0.1%",0.02,0.04,0.009
+"213","Receiving","60 Tomato Mash","Power_Pick_3","100%",0.16,0.21,0.1
+"214","Receiving","60 Tomato Mash","Power_Pick_3","10%",0.135,0.16,0.08
+"215","Receiving","60 Tomato Mash","Power_Pick_3","1%",0.1,0.141,0.06
+"216","Receiving","60 Tomato Mash","Power_Pick_3","0.1%",0.02,0.042,0.009
+"217","Packed Product","2 Tomatoes","Power_Pick_1","100%",0,0.02,0
+"218","Packed Product","2 Tomatoes","Power_Pick_1","10%",0,0.01,0
+"219","Packed Product","2 Tomatoes","Power_Pick_1","1%",0,0.01,0
+"220","Packed Product","2 Tomatoes","Power_Pick_1","0.1%",0,0,0
+"221","Packed Product","2 Tomatoes","Power_Pick_2","100%",0,0.011,0
+"222","Packed Product","2 Tomatoes","Power_Pick_2","10%",0,0.011,0
+"223","Packed Product","2 Tomatoes","Power_Pick_2","1%",0,0.00100000000000001,0
+"224","Packed Product","2 Tomatoes","Power_Pick_2","0.1%",0,0.01,0
+"225","Packed Product","2 Tomatoes","Power_Pick_3","100%",0,0.02,0
+"226","Packed Product","2 Tomatoes","Power_Pick_3","10%",0,0.01,0
+"227","Packed Product","2 Tomatoes","Power_Pick_3","1%",0,0.01,0
+"228","Packed Product","2 Tomatoes","Power_Pick_3","0.1%",0,0,0
+"229","Packed Product","6 Tomatoes","Power_Pick_1","100%",0.015,0.03,0
+"230","Packed Product","6 Tomatoes","Power_Pick_1","10%",0.01,0.02,0
+"231","Packed Product","6 Tomatoes","Power_Pick_1","1%",0.01,0.011,0
+"232","Packed Product","6 Tomatoes","Power_Pick_1","0.1%",0,0.00100000000000001,0
+"233","Packed Product","6 Tomatoes","Power_Pick_2","100%",0.01,0.04,0
+"234","Packed Product","6 Tomatoes","Power_Pick_2","10%",0.015,0.03,0
+"235","Packed Product","6 Tomatoes","Power_Pick_2","1%",0.005,0.021,0
+"236","Packed Product","6 Tomatoes","Power_Pick_2","0.1%",0,0.01,0
+"237","Packed Product","6 Tomatoes","Power_Pick_3","100%",0.01,0.031,0
+"238","Packed Product","6 Tomatoes","Power_Pick_3","10%",0.01,0.022,0
+"239","Packed Product","6 Tomatoes","Power_Pick_3","1%",0.01,0.02,0
+"240","Packed Product","6 Tomatoes","Power_Pick_3","0.1%",0,0,0
+"241","Packed Product","20 Tomatoes","Power_Pick_1","100%",0.05,0.081,0.02
+"242","Packed Product","20 Tomatoes","Power_Pick_1","10%",0.03,0.042,0.01
+"243","Packed Product","20 Tomatoes","Power_Pick_1","1%",0.02,0.041,0.009
+"244","Packed Product","20 Tomatoes","Power_Pick_1","0.1%",0.005,0.02,0
+"245","Packed Product","20 Tomatoes","Power_Pick_2","100%",0.04,0.06,0.01
+"246","Packed Product","20 Tomatoes","Power_Pick_2","10%",0.035,0.06,0.018
+"247","Packed Product","20 Tomatoes","Power_Pick_2","1%",0.03,0.04,0.009
+"248","Packed Product","20 Tomatoes","Power_Pick_2","0.1%",0,0.02,0
+"249","Packed Product","20 Tomatoes","Power_Pick_3","100%",0.05,0.07,0.02
+"250","Packed Product","20 Tomatoes","Power_Pick_3","10%",0.03,0.061,0.02
+"251","Packed Product","20 Tomatoes","Power_Pick_3","1%",0.025,0.052,0.009
+"252","Packed Product","20 Tomatoes","Power_Pick_3","0.1%",0.01,0.02,0
+"253","Packed Product","60 Tomatoes","Power_Pick_1","100%",0.11,0.143,0.078
+"254","Packed Product","60 Tomatoes","Power_Pick_1","10%",0.08,0.122,0.049
+"255","Packed Product","60 Tomatoes","Power_Pick_1","1%",0.07,0.121,0.03
+"256","Packed Product","60 Tomatoes","Power_Pick_1","0.1%",0.02,0.04,0.009
+"257","Packed Product","60 Tomatoes","Power_Pick_2","100%",0.1,0.13,0.08
+"258","Packed Product","60 Tomatoes","Power_Pick_2","10%",0.09,0.11,0.05
+"259","Packed Product","60 Tomatoes","Power_Pick_2","1%",0.07,0.1,0.04
+"260","Packed Product","60 Tomatoes","Power_Pick_2","0.1%",0.03,0.05,0.01
+"261","Packed Product","60 Tomatoes","Power_Pick_3","100%",0.11,0.131,0.068
+"262","Packed Product","60 Tomatoes","Power_Pick_3","10%",0.08,0.11,0.049
+"263","Packed Product","60 Tomatoes","Power_Pick_3","1%",0.065,0.09,0.029
+"264","Packed Product","60 Tomatoes","Power_Pick_3","0.1%",0.03,0.05,0.01
+"265","Packed Product","20 Tomato Mash","Power_Pick_1","100%",0.005,0.011,0
+"266","Packed Product","20 Tomato Mash","Power_Pick_1","10%",0,0.02,0
+"267","Packed Product","20 Tomato Mash","Power_Pick_1","1%",0.01,0.01,0
+"268","Packed Product","20 Tomato Mash","Power_Pick_1","0.1%",0,0.01,0
+"269","Packed Product","20 Tomato Mash","Power_Pick_2","100%",0.01,0.02,0
+"270","Packed Product","20 Tomato Mash","Power_Pick_2","10%",0.005,0.02,0
+"271","Packed Product","20 Tomato Mash","Power_Pick_2","1%",0,0.021,0
+"272","Packed Product","20 Tomato Mash","Power_Pick_2","0.1%",0,0.01,0
+"273","Packed Product","20 Tomato Mash","Power_Pick_3","100%",0.01,0.011,0
+"274","Packed Product","20 Tomato Mash","Power_Pick_3","10%",0,0.021,0
+"275","Packed Product","20 Tomato Mash","Power_Pick_3","1%",0.01,0.02,0
+"276","Packed Product","20 Tomato Mash","Power_Pick_3","0.1%",0,0.011,0
+"277","Packed Product","60 Tomato Mash","Power_Pick_1","100%",0.015,0.034,0.01
+"278","Packed Product","60 Tomato Mash","Power_Pick_1","10%",0.015,0.05,0
+"279","Packed Product","60 Tomato Mash","Power_Pick_1","1%",0.01,0.031,0
+"280","Packed Product","60 Tomato Mash","Power_Pick_1","0.1%",0.01,0.021,0
+"281","Packed Product","60 Tomato Mash","Power_Pick_2","100%",0.03,0.041,0.02
+"282","Packed Product","60 Tomato Mash","Power_Pick_2","10%",0.02,0.03,0.009
+"283","Packed Product","60 Tomato Mash","Power_Pick_2","1%",0.02,0.031,0.009
+"284","Packed Product","60 Tomato Mash","Power_Pick_2","0.1%",0.01,0.021,0
+"285","Packed Product","60 Tomato Mash","Power_Pick_3","100%",0.02,0.031,0.009
+"286","Packed Product","60 Tomato Mash","Power_Pick_3","10%",0.02,0.04,0
+"287","Packed Product","60 Tomato Mash","Power_Pick_3","1%",0.02,0.04,0.01
+"288","Packed Product","60 Tomato Mash","Power_Pick_3","0.1%",0.01,0.021,0
