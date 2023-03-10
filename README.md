@@ -1,4 +1,4 @@
-# Tomato Farm to Packinhouse Process Model
+# Tomato Farm to Packinghouse Process Model
 	This is a Process model for Tomatoes created by the Stasiewicz Lab at the University of Illinois Urbana-Champaign. 
 
 ## Goal
